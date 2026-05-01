@@ -1,0 +1,16 @@
+{
+  "title": "İletişime Geçin",
+  "subtitle": "Projeniz hakkında konuşalım ve size nasıl yardımcı olabileceğimizi görelim.",
+  "name": "Adınız",
+  "email": "Email Adresi",
+  "phone": "Telefon Numarası",
+  "project": "Projeniz hakkında bize anlatın",
+  "submit": "Mesaj Gönder",
+  "submitting": "Gönderiliyor...",
+  "success": "Mesaj başarıyla gönderildi!",
+  "error": "Bir şeyler yanlış gitti. Lütfen tekrar deneyin.",
+  "location": "Konum",
+  "phone_label": "Telefon",
+  "email_label": "Email",
+  "followUs": "Bizi Takip Edin"
+}

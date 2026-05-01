@@ -1,0 +1,16 @@
+{
+  "title": "Entre em Contato",
+  "subtitle": "Vamos discutir seu projeto e como podemos ajudar.",
+  "name": "Seu Nome",
+  "email": "Endereço de Email",
+  "phone": "Número de Telefone",
+  "project": "Conte-nos sobre seu projeto",
+  "submit": "Enviar Mensagem",
+  "submitting": "Enviando...",
+  "success": "Mensagem enviada com sucesso!",
+  "error": "Algo deu errado. Tente novamente.",
+  "location": "Localização",
+  "phone_label": "Telefone",
+  "email_label": "Email",
+  "followUs": "Siga-nos"
+}

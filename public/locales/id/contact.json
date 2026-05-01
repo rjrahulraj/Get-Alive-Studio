@@ -1,0 +1,16 @@
+{
+  "title": "Hubungi Kami",
+  "subtitle": "Mari kita diskusikan proyek Anda dan lihat bagaimana kami dapat membantu.",
+  "name": "Nama Anda",
+  "email": "Alamat Email",
+  "phone": "Nomor Telepon",
+  "project": "Ceritakan tentang proyek Anda",
+  "submit": "Kirim Pesan",
+  "submitting": "Mengirim...",
+  "success": "Pesan berhasil dikirim!",
+  "error": "Ada yang salah. Silakan coba lagi.",
+  "location": "Lokasi",
+  "phone_label": "Telepon",
+  "email_label": "Email",
+  "followUs": "Ikuti Kami"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Ponte en Contacto",
+  "subtitle": "Hablemos sobre tu proyecto y cómo podemos ayudarte.",
+  "name": "Tu Nombre",
+  "email": "Dirección de Correo",
+  "phone": "Número de Teléfono",
+  "project": "Cuéntanos sobre tu proyecto",
+  "submit": "Enviar Mensaje",
+  "submitting": "Enviando...",
+  "success": "¡Mensaje enviado con éxito!",
+  "error": "Algo salió mal. Por favor, inténtalo de nuevo.",
+  "location": "Ubicación",
+  "phone_label": "Teléfono",
+  "email_label": "Correo",
+  "followUs": "Síguenos"
+}

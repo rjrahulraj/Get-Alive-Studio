@@ -1,0 +1,16 @@
+{
+  "title": "Get In Touch",
+  "subtitle": "Let's discuss your project and see how we can help.",
+  "name": "Your Name",
+  "email": "Email Address",
+  "phone": "Phone Number",
+  "project": "Tell us about your project",
+  "submit": "Send Message",
+  "submitting": "Sending...",
+  "success": "Message sent successfully!",
+  "error": "Something went wrong. Please try again.",
+  "location": "Location",
+  "phone_label": "Phone",
+  "email_label": "Email",
+  "followUs": "Follow Us"
+}
